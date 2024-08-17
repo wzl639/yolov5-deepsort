@@ -2,7 +2,8 @@
 本项目基于deepsort和Yolov5实现了一个简单的船舶追踪算法，deepsort是一个基于检测的目标追踪算法，可以方便的替换检测算法。Yolov5是船舶检测模型，
 使用onnx模型进行推理，也可以替换为自己的检测模型。项目中追踪和检测分模块进行实现，方便替换自己的的检测算法模型。
 
-有关项目代码讲解参考博客：https://blog.csdn.net/qq_40980981/article/details/139123269?spm=1001.2014.3001.5501
+有关项目代码讲解参考博客：https://blog.csdn.net/qq_40980981/article/details/141265926?spm=1001.2014.3001.5502
+船舶检测onnx模型： 链接: https://pan.baidu.com/s/1_7S5Ty2bAOgS1YrXS6IPFQ?pwd=vy3u 提取码: vy3u
 
 ## 环境安装
 pip install -r requirement.txt
